@@ -9,7 +9,7 @@ public class MainApp {
 		//數學運算式
 		Math cMath = new Math();
 		System.out.println();
-		System.out.println(cMath.add(11,5));
+		System.out.println(cMath.add(12,5));
 	}
 }
 
