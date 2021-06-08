@@ -10,6 +10,7 @@ public class MainApp {
 		Math cMath = new Math();
 		System.out.println();
 		System.out.println(cMath.add(12,5));
+		System.out.println("====");
 	}
 }
 
